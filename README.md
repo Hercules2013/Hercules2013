@@ -1,5 +1,5 @@
 <h1 align="center">
-  Senior Software Engineer
+  👨‍💻 Senior Software Engineer 💪
 </h1>
 
 <p align="center">
