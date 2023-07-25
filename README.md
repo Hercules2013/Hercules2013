@@ -198,9 +198,6 @@
   <a href="https://github.com/Hercules2013?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/>
   </a>
-  <a href="https://github.com/Hercules2013">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=light&langs_count=15&include_all_commits=true&hide_progress=true" />
-  </a>
 </p>
 
 <!---
