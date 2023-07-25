@@ -9,6 +9,9 @@
 </p>
 
 ## About Me
+#### Full-Stack Developer with 7+ years of experience
+#### Love challenges and want to explore all tech stacks
+#### Keep main focus on team collaboration and cooperation
 
 ## Languages and Tools
 <p align="center">
@@ -272,18 +275,16 @@
   </a>
 </p>
 
+<!---
 <img src="./assets/colored.png"  width="100%" />
 
-
 ## How to react me
-
 - 👋 Hi, I’m @Hercules2013
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
 Hercules2013/Hercules2013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
