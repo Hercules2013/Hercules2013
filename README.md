@@ -194,11 +194,12 @@
     </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/Hercules2013?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/>
   </a>
-</p>
+</p>-->
 
 <!---
 <img src="./assets/colored.png"  width="100%" />
