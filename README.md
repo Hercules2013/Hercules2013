@@ -8,7 +8,7 @@
   </a>
 </p> -->
 
-## About Me
+<!-- ## About Me -->
 #### Full-Stack Developer with 7+ years of experience
 #### Love challenges and want to explore all tech stacks
 #### Keep main focus on team collaboration and cooperation
