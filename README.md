@@ -1,5 +1,5 @@
 <h1 align="center">
-  👨‍💻 Senior Software Engineer 💪
+  Hi, I am Hercules 💪
 </h1>
 
 <!-- <p align="center">
@@ -9,7 +9,7 @@
 </p> -->
 
 <!-- ## About Me -->
-#### Full-Stack Developer with 7+ years of experience
+#### Full-Stack and Cross-Platform Developer with 7+ years of experience
 #### Love challenges and want to explore all tech stacks
 #### Keep main focus on team collaboration and cooperation
 
