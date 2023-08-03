@@ -2,12 +2,6 @@
   Hi, I am Hercules 💪
 </h1>
 
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;9+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
-  </a>
-</p> -->
-
 <!-- ## About Me -->
 #### Full-Stack and Cross-Platform Developer with 7+ years of experience
 #### Love challenges and want to explore all tech stacks
@@ -134,7 +128,7 @@
 ## Github Stats
 <p align = "center">
   <a href="https://github.com/Hercules2013?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Hercules2013&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Hercules's github-readme-stats"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hercules2013&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Hercules's github-readme-stats"/>
   </a>
   <a href="https://github.com/Hercules2013?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Hercules2013&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Hercules's github-readme-streak-stats"/>
