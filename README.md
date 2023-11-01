@@ -127,6 +127,9 @@
 
 ## Github Stats
 <p align = "center">
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=Hercules2013&data=followers,repositories,stars,commits' />
+</p>
+<p align = "center">
   <a href="https://github.com/Hercules2013?tab=repositories">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hercules2013&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Hercules's github-readme-stats"/>
   </a>
