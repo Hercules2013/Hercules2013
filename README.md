@@ -3,7 +3,7 @@
 </h1>
 
 <!-- ## About Me -->
-#### Full-Stack and Cross-Platform Developer
+#### Full-Stack and Cross-Platform Engineer
 #### Love challenges and want to explore all tech stacks
 #### Keep main focus on team collaboration and cooperation
 
